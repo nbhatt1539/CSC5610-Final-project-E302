@@ -2,7 +2,7 @@
 
 This project classifies human activities (e.g., walking, sitting, standing) from smartphone sensor data using machine learning.
 
-## 📁 Dataset Overview
+## Dataset Overview
 
 - **Source**: [UCI HAR Dataset](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
 - **Subjects**: 30 participants (age 19–48)

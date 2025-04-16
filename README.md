@@ -42,13 +42,6 @@ Additional raw signal data in /Inertial Signals/ for custom feature engineering
 
 ## Utility of pre-processing steps
 
-- Ensure noise reduction and better signal clarity
-- Preserve temporal patterns in sensor data
-- Standardize inputs for model convergence
-- Prevent overfitting by subject-aware train/test split
-
-
-
  Step               | Purpose                                                             |
 |--------------------|---------------------------------------------------------------------|
 | Filtering          | Removes high-frequency noise and isolates meaningful patterns       |

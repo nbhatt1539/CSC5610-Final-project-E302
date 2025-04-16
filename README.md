@@ -1,9 +1,9 @@
-Human Activity Recognition Using Smartphones Dataset
+# Human Activity Recognition Using Smartphones Dataset
 
-Dataset used- https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
+##Dataset used- https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
 This project leverages the UCI HAR Dataset to classify human activities from smartphone sensor data using machine learning techniques.
 
-Dataset Overview-------------------------------------------------------------------------------------------------------------------------
+## Dataset Overview
 
 Subjects: 30 volunteers (ages 19–48)
 Device: Samsung Galaxy S II (worn on waist)
@@ -17,7 +17,7 @@ Activities:
             STANDING
             LAYING
             
-Preprocessing Steps----------------------------------------------------------------------------------------------------------------------
+## Preprocessing Steps
 
 Noise Filtering:
 Median filter and 3rd order Butterworth filter (20 Hz)
@@ -35,8 +35,7 @@ y_train.txt, y_test.txt: Activity labels
 subject_train.txt, subject_test.txt: Participant IDs
 Additional raw signal data in /Inertial Signals/ for custom feature engineering
 
-
-Utility of pre-processing steps-------------------------------------------------------------------------------------------------------------
+## Utility of pre-processing steps
 
 Ensure noise reduction and better signal clarity
 Preserve temporal patterns in sensor data

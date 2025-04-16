@@ -1,1 +1,1 @@
-# CSC5610
+# Human activity recognition

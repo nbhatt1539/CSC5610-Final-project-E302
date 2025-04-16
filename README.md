@@ -1,3 +1,3 @@
 # Human activity recognition
 
-Dataset usedm- https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
+Dataset used- https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones

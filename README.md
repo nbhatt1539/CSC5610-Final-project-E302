@@ -38,7 +38,7 @@ This project classifies human activities (e.g., walking, sitting, standing) from
 - **Feature vectors (561 features)**: X_train.txt, X_test.txt
 - **Activity labels**: y_train.txt, y_test.txt
 - **Participant IDs**: subject_train.txt, subject_test.txt
-- Additional raw signal data in /Inertial Signals/ for custom feature engineering
+- Additional raw signal data in **Inertial Signals** for custom feature engineering
 
 ## Utility of pre-processing steps
 
